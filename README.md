@@ -5,7 +5,7 @@
  2. Customers
    > A Table contains the customers info.
  3. Transfer
-   > Transfer money from one to another.
+   > * Transfer money from one to another.
    > * view a specific customer info using ID.
  4. Transfer History
    > Transactions info 
