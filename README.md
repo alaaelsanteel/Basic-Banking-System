@@ -20,12 +20,12 @@ This project is the first task of [The Sparks Foundation Internship](https://www
    
   ## Technologies
    * Front End Technologies:  
-     . HTML5
-     . CSS
-     . Bootstrap
+     * HTML5
+     * CSS
+     * Bootstrap
    * Back End Technologies: 
-     . PHP 
-     . MySQL
+     * PHP 
+     * MySQL
  
  ## Contanct Me:
  [LinkedIn](https://www.linkedin.com/in/alaaelsanteel/)
