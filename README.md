@@ -18,12 +18,15 @@ This project is the first task of [The Sparks Foundation Internship](https://www
    > Transactions info 
    ![TransferHistory](https://user-images.githubusercontent.com/78312680/208904719-1eb2e9cc-54e6-4845-97db-1f93ff207c81.jpeg)
    
-   ## What I used:
-   * HTML
-   * CSS
-   * Bootstrap
-   * PHP
-   * MySQL
+  ## Technologies
+   * Front End Technologies:  
+     . HTML5
+     . CSS
+     . Bootstrap
+   * Back End Technologies: 
+     . PHP 
+     . MySQL
+ 
  ## Contanct Me:
  [LinkedIn](https://www.linkedin.com/in/alaaelsanteel/)
  
