@@ -6,7 +6,7 @@ This project is the first task of [The Sparks Foundation Internship](https://www
    > An overview of what the system is.
    ![Home](https://user-images.githubusercontent.com/78312680/208903964-7c5d4e14-ffee-4a21-b7b3-c7b6fa402c12.jpeg)
  2. ### Customers
-   > A Table contains the customers info.
+   > A Dashboard contains the customers info.
    ![Customers](https://user-images.githubusercontent.com/78312680/208904538-58f85de5-130a-4beb-9442-11bf65626a42.jpeg)
 
  3. ### Transfer
